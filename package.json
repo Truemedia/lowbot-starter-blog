@@ -1,24 +1,24 @@
 {
-  "name": "lowbot-starter-blog",
+  "name": "mindstack-starter-blog",
   "version": "1.0.0",
-  "description": "Lowbot starter specialised for blogging",
+  "description": "Mind Stack starter specialised for blogging",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Truemedia/lowbot-starter-blog.git"
+    "url": "git+https://github.com/Truemedia/mindstack-starter-blog.git"
   },
   "keywords": [
-    "lowbot",
+    "mindstack",
     "starter",
     "blog"
   ],
   "author": "Wade Penistone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Truemedia/lowbot-starter-blog/issues"
+    "url": "https://github.com/Truemedia/mindstack-starter-blog/issues"
   },
-  "homepage": "https://github.com/Truemedia/lowbot-starter-blog#readme"
+  "homepage": "https://github.com/Truemedia/mindstack-starter-blog#readme"
 }
